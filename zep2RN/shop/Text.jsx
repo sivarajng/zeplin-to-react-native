@@ -1,0 +1,10 @@
+<Text style={{ fontSize : 12 , lineHeight : 0 , color: '#fff' , fontFamily : 'Helvetica' }} > Figma </Text>
+<Text style={{ fontSize : 12 , lineHeight : 0 , color: '#fff' , fontFamily : 'Helvetica' }} > 42% </Text>
+<Text style={{ fontSize : 12 , lineHeight : 0 , color: '#fff' , fontFamily : 'Helvetica' }} > 9:42 AM </Text>
+<Text style={{ fontSize : 10 , lineHeight : 0 , color: '#000' , fontFamily : 'Montserrat-Regular' }} > THE \n ART\n MUSEUM </Text>
+<Text style={{ fontSize : 18 , lineHeight : 0 , color: '#ff473a' , fontFamily : 'Montserrat-Regular' }} > Shop </Text>
+<Text style={{ fontSize : 12 , lineHeight : 0 , color: '#fff' , fontFamily : 'Montserrat-Regular' }} > Add to Cart </Text>
+<Text style={{ fontSize : 1 , lineHeight : 20 , color: '#050505' , fontFamily : 'Montserrat-Regular' }} > $160.00\n $140.00 Member Price </Text>
+<Text style={{ fontSize : 18 , lineHeight : 0 , color: '#d4d4d4' , fontFamily : 'Montserrat-Regular' }} > 0 </Text>
+<Text style={{ fontSize : 10 , lineHeight : 14 , color: '#979797' , fontFamily : 'Montserrat-Light' }} > This Braun watch is a reissue of the original 1970's design from renowned design team Dietrich Lubs and Dieter Rams, both of whom have work featured in the Museum’s collection. The large watch features a numbered face, and the smaller watch has only index lines. Made of a matte stainless-steel case, black dial, mineral glass, a three-hand quartz movement, and a leather band. Water-resistant. </Text>
+<Text style={{ fontSize : 24 , lineHeight : 0 , color: '#000' , fontFamily : 'Montserrat-Regular' }} > Braun Classic Watch </Text>

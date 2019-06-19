@@ -1,0 +1,41 @@
+{
+    "name": "zeplin-to-react-native",
+    "version": "1.0.0",
+    "description": "This is a framework which converts Zeplin designs (json schema)  to React Native / HTML Code snippets/components",
+    "main": "index.js",
+    "scripts": {
+        "start":"",
+        "test": "node ./test/index.js"
+    },
+    "dependencies": {
+        "axios": "0.19.0",
+        "lodash": "4.17.11",
+        "rgba-convert": "0.3.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/sivarajng/zeplin-to-react-native.git"
+    },
+    "keywords": [
+        "zeplin",
+        "design",
+        "ui",
+        "sketch",
+        "figma",
+        "react",
+        "react-native",
+        "react native",
+        "native",
+        "convert",
+        "conversion",
+        "export",
+        "generate",
+        "html"
+    ],
+    "author": "Sivaraj Nagaraj",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/sivarajng/zeplin-to-react-native/issues"
+    },
+    "homepage": "https://github.com/sivarajng/zeplin-to-react-native#readme"
+}
